@@ -16,4 +16,4 @@
 [![An image of @gamerking177's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gamerking177)](https://holopin.io/@gamerking177)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=radical&show_icons=true)
+![Gamerking177 GitHub stats](https://github-readme-stats.vercel.app/api?username=Gamerking177&theme=radical&show_icons=true)
