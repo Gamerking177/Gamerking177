@@ -15,6 +15,6 @@
 # Hacktoberfest 2024
 [![An image of @gamerking177's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gamerking177)](https://holopin.io/@gamerking177)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Gamerking177)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Gamerking177 GitHub stats](https://github-readme-stats.vercel.app/api?username=Gamerking177&theme=radical&show_icons=true)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Gamerking177)](https://git.io/streak-stats)
+![Gamerking177 GitHub stats](https://github-readme-stats.vercel.app/api?username=Gamerking177&theme=radical&show_icons=true) [![GitHub Streak](https://streak-stats.demolab.com/?user=Gamerking177)](https://git.io/streak-stats)
