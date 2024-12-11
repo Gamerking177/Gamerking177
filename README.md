@@ -19,4 +19,4 @@
 
 ![Gamerking177 GitHub stats](https://github-readme-stats.vercel.app/api?username=Gamerking177&theme=radical&show_icons=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Gamerking177&theme=radical)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Gamerking177&theme=radical" alt="GitHub Streak" /></a>
