@@ -17,4 +17,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Gamerking177)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Gamerking177 GitHub stats](https://github-readme-stats.vercel.app/api?username=Gamerking177&theme=radical&show_icons=true) [![GitHub Streak](https://streak-stats.demolab.com/?user=Gamerking177&theme=radical)](https://git.io/streak-stats)
+![Gamerking177 GitHub stats](https://github-readme-stats.vercel.app/api?username=Gamerking177&theme=radical&show_icons=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Gamerking177&theme=radical)](https://git.io/streak-stats)
