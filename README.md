@@ -12,7 +12,7 @@
   <img src="./assets/8.png" width="85px" height="85px" /></a>
 </div>
 
-# Hacktoberfest 2024
+# Hacktoberfest 2024 & 2025
 [![An image of @gamerking177's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gamerking177)](https://holopin.io/@gamerking177)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Gamerking177&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
